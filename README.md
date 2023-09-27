@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Cybernetics and Robotics student at NTNU 🤖. I work with everything from personal robotics projects to teaching in embedded systems.
+
 <!--
 **tordnat/tordnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
