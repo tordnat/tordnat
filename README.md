@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Cybernetics and Robotics student at NTNU 🤖. I work with everything from personal robotics projects to teaching in embedded systems.
+I'm a Cybernetics and Robotics Master's student at NTNU 🤖. I work in teaching in embedded systems at NTNU and software development at NTNU IT. In my spare time I like to tinker with robotics projects such as tracking turrets and autonomous delivery robots. 
 
 <!--
 **tordnat/tordnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
